@@ -124,6 +124,21 @@ This cost model is used in:
 while BFS and DFS ignore weighted costs.
 
 ---
+# Demo
+
+## BFS on Undirected Graph
+
+<p align="center">
+  <img src="GIF/bfs-undirected.gif" width="900">
+</p>
+
+## A* on Directed Graph
+
+<p align="center">
+  <img src="GIF/astar-directed.gif" width="900">
+</p>
+
+---
 
 # Installation
 
