@@ -145,8 +145,9 @@ while BFS and DFS ignore weighted costs.
 Clone the repository:
 
 ```bash
-git clone https://github.com/vidasdti/PythonProjects.git
-cd PythonProjects/pathfinding-visualizer
+git clone https://github.com/vidasdti/pathfinding-visualizer.git
+cd pathfinding-visualizer
+
 ```
 
 Install dependencies:
